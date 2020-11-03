@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98807a69-4b49-4564-acb6-4434da092abc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataCenters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCenter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerRepository.html" beforeDir="false" afterPath="$PROJECT_DIR$/DockerRepository.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KubernetesvsDocker.html" beforeDir="false" afterPath="$PROJECT_DIR$/KubernetesvsDocker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualizationandContainerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualizationandContainerization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jlCqHGctsLJk2sJsyGaVLITcqa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98807a69-4b49-4564-acb6-4434da092abc" name="Default Changelist" comment="" />
+      <created>1604369480909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604369480909</updated>
+      <workItem from="1604369482009" duration="4166000" />
+    </task>
+    <task id="LOCAL-00001" summary="added css">
+      <created>1604369832145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604369832145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created READ.MD">
+      <created>1604370009275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604370009275</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created different webpages">
+      <created>1604370198606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604370198606</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added basic layout to about and idex pages. Added nav bar">
+      <created>1604422227598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604422227598</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="added css" />
+    <MESSAGE value="created READ.MD" />
+    <MESSAGE value="created different webpages" />
+    <MESSAGE value="Added basic layout to about and idex pages. Added nav bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added basic layout to about and idex pages. Added nav bar" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604421585270">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1604421585270" />
+    <state x="814" y="153" key="CommitChangelistDialog2" timestamp="1604422227517">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604422227517" />
+    <state x="1082" y="481" key="Github.ShareDialog" timestamp="1604369924052">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="1082" y="481" key="Github.ShareDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1604369924052" />
+    <state x="837" y="317" key="Vcs.Push.Dialog.v2" timestamp="1604369907035">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="837" y="317" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1604369907035" />
+  </component>
+</project>
