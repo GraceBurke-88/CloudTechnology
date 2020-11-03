@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98807a69-4b49-4564-acb6-4434da092abc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/about page.htiw.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/READ.MD" beforeDir="false" afterPath="$PROJECT_DIR$/READ.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604369480909</updated>
-      <workItem from="1604369482009" duration="5336000" />
+      <workItem from="1604369482009" duration="5661000" />
     </task>
     <task id="LOCAL-00001" summary="added css">
       <created>1604369832145</created>
@@ -94,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604424298449</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task: Added image and text to about page">
+      <created>1604441304398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604441304398</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,17 +112,18 @@
     <MESSAGE value="created different webpages" />
     <MESSAGE value="Added basic layout to about and idex pages. Added nav bar" />
     <MESSAGE value="Added format and layout to 'Cloud Technology' pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added format and layout to 'Cloud Technology' pages" />
+    <MESSAGE value="Task: Added image and text to about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added image and text to about page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604421585270">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1604421585270" />
-    <state x="814" y="153" key="CommitChangelistDialog2" timestamp="1604424298373">
+    <state x="814" y="153" key="CommitChangelistDialog2" timestamp="1604441304298">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604424298373" />
+    <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604441304298" />
     <state x="1082" y="481" key="Github.ShareDialog" timestamp="1604369924052">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -127,9 +132,13 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1792.1097@0.23.1792.1097" timestamp="1604441030119" />
-    <state x="837" y="317" key="Vcs.Push.Dialog.v2" timestamp="1604369907035">
+    <state x="837" y="317" key="Vcs.Push.Dialog.v2" timestamp="1604441389919">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="837" y="317" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1604369907035" />
+    <state x="837" y="317" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1604441389919" />
+    <state x="135" y="123" width="889" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604441570512">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="135" y="123" width="889" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1604441570512" />
   </component>
 </project>
