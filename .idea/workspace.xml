@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98807a69-4b49-4564-acb6-4434da092abc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/READ.MD" beforeDir="false" afterPath="$PROJECT_DIR$/READ.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Blog.-Are-containers-..VM-Image-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/computer-1209641_1920-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/electrical-2476782_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/network-2402637_1280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCenters.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataCenters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KubernetesvsDocker.html" beforeDir="false" afterPath="$PROJECT_DIR$/KubernetesvsDocker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualizationandContainerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualizationandContainerization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604369480909</updated>
-      <workItem from="1604369482009" duration="5661000" />
+      <workItem from="1604369482009" duration="7343000" />
     </task>
     <task id="LOCAL-00001" summary="added css">
       <created>1604369832145</created>
@@ -98,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604441304398</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task: Added link to READ.MD">
+      <created>1604441589653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604441589653</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,17 +128,22 @@
     <MESSAGE value="Added basic layout to about and idex pages. Added nav bar" />
     <MESSAGE value="Added format and layout to 'Cloud Technology' pages" />
     <MESSAGE value="Task: Added image and text to about page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added image and text to about page" />
+    <MESSAGE value="Task: Added link to READ.MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added link to READ.MD" />
   </component>
   <component name="WindowStateProjectService">
     <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604421585270">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1604421585270" />
-    <state x="814" y="153" key="CommitChangelistDialog2" timestamp="1604441304298">
+    <state x="317" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604442572793">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604441304298" />
+    <state x="317" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1604442572793" />
+    <state x="814" y="153" key="CommitChangelistDialog2" timestamp="1604441589562">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604441589562" />
     <state x="1082" y="481" key="Github.ShareDialog" timestamp="1604369924052">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
