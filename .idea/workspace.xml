@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98807a69-4b49-4564-acb6-4434da092abc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataCenters.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataCenters.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DockerRepository.html" beforeDir="false" afterPath="$PROJECT_DIR$/DockerRepository.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KubernetesvsDocker.html" beforeDir="false" afterPath="$PROJECT_DIR$/KubernetesvsDocker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VirtualizationandContainerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualizationandContainerization.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604369480909</updated>
-      <workItem from="1604369482009" duration="11055000" />
+      <workItem from="1604369482009" duration="11790000" />
     </task>
     <task id="LOCAL-00001" summary="added css">
       <created>1604369832145</created>
@@ -139,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604453437811</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Feature: Changed Sidebar, added breadcrumbs">
+      <created>1604454828252</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604454828252</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +171,8 @@
     <MESSAGE value="Task: Added text to KubernetesvsDocker.html" />
     <MESSAGE value="Task: Added text and images to DockerRepository.html" />
     <MESSAGE value="Task: Added text to DockerRepository.html and DataCenters.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added text to DockerRepository.html and DataCenters.html" />
+    <MESSAGE value="Feature: Changed Sidebar, added breadcrumbs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Changed Sidebar, added breadcrumbs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604421585270">
@@ -180,10 +183,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="317" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1604442572793" />
-    <state x="814" y="153" key="CommitChangelistDialog2" timestamp="1604453437728">
+    <state x="814" y="153" key="CommitChangelistDialog2" timestamp="1604454828162">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604453437728" />
+    <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604454828162" />
     <state x="1082" y="481" key="Github.ShareDialog" timestamp="1604369924052">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -192,10 +195,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1792.1097@0.23.1792.1097" timestamp="1604441030119" />
-    <state x="837" y="317" key="Vcs.Push.Dialog.v2" timestamp="1604453440469">
+    <state x="837" y="317" key="Vcs.Push.Dialog.v2" timestamp="1604454830811">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="837" y="317" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1604453440469" />
+    <state x="837" y="317" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1604454830811" />
     <state x="135" y="123" width="889" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604441570512">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
