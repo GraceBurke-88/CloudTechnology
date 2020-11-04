@@ -48,12 +48,14 @@
     <h1>Docker Repository</h1>
 <h4>Step 1</h4>
     <p>
-        TEXT NEEDED
+        Install Dock on your computer, you will need it to complete this task.
+       <br> Download Docker At:
+        <br>https://docs.docker.com/get-docker/
     </p>
 
     <h4>Step 2</h4>
     <p>
-        TEXT NEEDED
+        Pull an image from your computer, and use Apache to create a container for it to be placed into. Consider entering the command: run “docker pull ubuntu”, and to check to see if the image exists in your computer, the command, “docker images”.
     </p>
     <div class="image">
         <img src="images/step2.png" alt=""
@@ -64,7 +66,7 @@
 
     <h4>Step 3</h4>
     <p>
-        TEXT NEEDED
+        Run the image you’re trying to work with, this will start the container, and then log into it. Consider using the command: “docker run -it ubuntu:latest /bin/bash”
     </p>
 
     <div class="image">
@@ -76,12 +78,22 @@
 
     <h4>Step 4</h4>
     <p>
-        TEXT NEEDED
+        TTo share data between a Docker container and the host,
+        <br>Use “docker run -it -p 127.0.0.1:80:80 -v :\Docker tutorial\local_dir:/var/www/html ubuntu-my_apache2 /bin /bash
+
+        <br>Be careful that nothing else is running in the ‘80’ port.
+
     </p>
 
     <h4>Step 5</h4>
     <p>
-        TEXT NEEDED
+        To access the vi Editor in UNIX, first input the following
+        <br></br>root@...:/# pwd
+        <br></br>root@...:/# cd /var/www/html/
+        <br></br>root@...:/ /var/www/html#
+
+       <br><br> Then create an index.html file, press ‘i’ to edit, you can now edit and type html into the given source code. After you are finished, press “ESC” key to leave
+
     </p>
     <div class="image">
         <img src="images/step5.png" alt=""
@@ -92,7 +104,10 @@
 
     <h4>Step 6</h4>
     <p>
-        TEXT NEEDED
+        Start apache using “​/etc/init.d/apache2 restart​”
+
+       <br> Got to  “127.0.0.1”on your host browser to access your site.
+
     </p>
 
     <div class="image">
