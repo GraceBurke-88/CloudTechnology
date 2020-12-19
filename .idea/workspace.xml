@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98807a69-4b49-4564-acb6-4434da092abc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/carolina.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grace.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCenters.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataCenters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerRepository.html" beforeDir="false" afterPath="$PROJECT_DIR$/DockerRepository.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KubernetesvsDocker.html" beforeDir="false" afterPath="$PROJECT_DIR$/KubernetesvsDocker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualizationandContainerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualizationandContainerization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +60,7 @@
       <workItem from="1606324937399" duration="212000" />
       <workItem from="1606327783472" duration="1244000" />
       <workItem from="1606332577501" duration="593000" />
-      <workItem from="1608350367018" duration="1543000" />
+      <workItem from="1608350367018" duration="2168000" />
     </task>
     <task id="LOCAL-00001" summary="added css">
       <created>1604369832145</created>
@@ -167,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608352078670</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="task: added content to about.html">
+      <created>1608352483225</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608352483225</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +215,8 @@
     <MESSAGE value="task: Added text links" />
     <MESSAGE value="task: fixed VirtualizationandContainerization.html text" />
     <MESSAGE value="task: added carousel to homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: added carousel to homepage" />
+    <MESSAGE value="task: added content to about.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added content to about.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604421585270">
@@ -212,11 +227,11 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="317" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1604442572793" />
-    <state x="814" y="155" key="CommitChangelistDialog2" timestamp="1608352078565">
+    <state x="814" y="155" key="CommitChangelistDialog2" timestamp="1608352483144">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604684547863" />
-    <state x="814" y="155" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608352078565" />
+    <state x="814" y="155" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608352483144" />
     <state x="1082" y="481" key="Github.ShareDialog" timestamp="1604369924052">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
