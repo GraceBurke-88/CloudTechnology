@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98807a69-4b49-4564-acb6-4434da092abc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/undraw_Cloud_docs_re_xjht.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/undraw_Domain_names_re_0uun.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/undraw_Social_media_re_w12q.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/undraw_cloud_files_wmo8.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/undraw_next_tasks_iubr.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
       <workItem from="1606324937399" duration="212000" />
       <workItem from="1606327783472" duration="1244000" />
       <workItem from="1606332577501" duration="593000" />
-      <workItem from="1608350367018" duration="1213000" />
+      <workItem from="1608350367018" duration="1543000" />
     </task>
     <task id="LOCAL-00001" summary="added css">
       <created>1604369832145</created>
@@ -165,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604684548015</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="task: added carousel to homepage">
+      <created>1608352078670</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608352078670</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +200,8 @@
     <MESSAGE value="Feature: Changed Sidebar, added breadcrumbs" />
     <MESSAGE value="task: Added text links" />
     <MESSAGE value="task: fixed VirtualizationandContainerization.html text" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: fixed VirtualizationandContainerization.html text" />
+    <MESSAGE value="task: added carousel to homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added carousel to homepage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="910" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604421585270">
@@ -209,10 +212,11 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="317" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1604442572793" />
-    <state x="814" y="153" key="CommitChangelistDialog2" timestamp="1604684547863">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="814" y="155" key="CommitChangelistDialog2" timestamp="1608352078565">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="814" y="153" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1604684547863" />
+    <state x="814" y="155" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608352078565" />
     <state x="1082" y="481" key="Github.ShareDialog" timestamp="1604369924052">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -221,10 +225,11 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1792.1097@0.23.1792.1097" timestamp="1604441030119" />
-    <state x="837" y="317" key="Vcs.Push.Dialog.v2" timestamp="1604684557306">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="837" y="318" key="Vcs.Push.Dialog.v2" timestamp="1608352081383">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="837" y="317" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1604684557306" />
+    <state x="837" y="318" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608352081383" />
     <state x="135" y="123" width="889" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604441570512">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
